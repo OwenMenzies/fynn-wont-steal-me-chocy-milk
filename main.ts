@@ -51,6 +51,6 @@ input.onButtonPressed(Button.B, function () {
 })
 let Password = 0
 let Password_doer_or_not = false
-radio.setGroup(1.79769313486e+308)
+radio.setGroup(1.797693134862e+308)
 Password_doer_or_not = false
 Password = 0
